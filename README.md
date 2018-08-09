@@ -1,5 +1,7 @@
 # Glob2PO2JSON
 
+![NPM version](https://flat.badgen.net/npm/v/@tracesoftwareinternational/glob2po2json)
+
 This package will let you "glob" some `.po` files and convert them into JSON files with same name as source files.
 
 ## Installation
