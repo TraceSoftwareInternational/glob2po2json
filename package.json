@@ -1,6 +1,6 @@
 {
   "name": "@tracesoftwareinternational/glob2po2json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "GPL-3.0",
   "description": "Capture PO files from a glob and transform them into JSON.",
   "author": "Matthieu Vion <contact@mvion.fr>",
