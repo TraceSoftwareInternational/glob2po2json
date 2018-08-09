@@ -1,0 +1,32 @@
+{
+  "name": "@tracesoftwareinternational/glob2po2json",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+  "description": "Capture PO files from a glob and transform them into JSON.",
+  "main": "glob2po2json.js",
+  "repository": "github:TraceSoftwareInternational/glob2po2json",
+  "keywords": [
+    "i18n",
+    "l10n",
+    "glob",
+    "po",
+    "json"
+  ],
+  "contributors": [
+    {
+      "name": "Matthieu Vion",
+      "email": "contact@mvion.fr"
+    }
+  ],
+  
+  "private": false,
+  "files": [
+    "glob2po2json.js"
+  ],
+  "bin": "glob2po2json.js",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "po2json": "^0.4.5",
+    "yargs": "^12.0.1"
+  }
+}
